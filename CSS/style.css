@@ -1,0 +1,19 @@
+table{
+    border-color: black;
+}
+body{
+    background: rgb(58, 185, 58);
+}
+img{
+    width: 150px;
+}
+button{
+    box-shadow: red;
+    color: blue;
+    background-color: blue;
+    width: 200px;
+    height: 100px;
+}
+#contact_btn:hover{
+color: red;
+}
