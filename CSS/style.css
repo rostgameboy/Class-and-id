@@ -1,18 +1,18 @@
 body{
     background: black;
 }
-#one{
+.one{
     color: blue;
 }
-#two{
+.two{
     color:blueviolet;
 }
-#three{
+.three{
     color: chartreuse;
 }
-#four{
+.four{
     color: darkcyan;
 }
-#five{
+.five{
     color: red;
 }
